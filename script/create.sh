@@ -8,6 +8,9 @@ bucket_arn="arn:aws:s3:::${bucket_name}"
 echo "Create bucket: ${bucket_name} with ${bucket_arn}"
 aws s3 mb s3://${bucket_name}
 
+echo "Create bucket: ${bucket_name} with ${bucket_arn}"
+aws s3 mb s3://${bucket_name}
+
 echo "Create lambda function: ${lambda_name}"
 zip lambda_function.zip lambda_function.js
 lambda_arn=`aws lambda create-function --memory-size 128 --function-name ${lambda_name}` 
