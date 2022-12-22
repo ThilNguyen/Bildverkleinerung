@@ -37,3 +37,11 @@ cat output.jpg
 # Liste aller S3-Buckets
 bucket_list=$(aws s3 ls | awk '{print $3}')
 
+# löschen
+for bucket in $bucket_list; do
+  # Löschen aller Dateien im Bucket
+  aws s3 rm s3://$bucket --recursive
+  # Löschen des Buckets selbst
+  aws s3 rb s3://$bucket
+done
+
