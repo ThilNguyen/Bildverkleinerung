@@ -1,1 +1,1 @@
-Diese Dokumentation gibt mir Schmerzen
+Die doku wird am Freitag geschrieben
