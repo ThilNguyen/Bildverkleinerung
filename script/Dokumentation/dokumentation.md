@@ -1,1 +1,1 @@
-Die doku wird am Freitag geschrieben
+Die Doku wird am Freitag geschrieben
