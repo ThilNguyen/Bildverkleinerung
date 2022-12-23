@@ -22,7 +22,9 @@ Unsere Gruppe welche aus Luis Viethen, Thi Nguyen und Livio Piccolotto besteht h
 
 ### Installation
 
+Wichtig ist, dass man die Amazon CLI installiert hat. Das ist eine Befehlszeilenschnittstelle welche mit dem AWS von Amazon interagieren kann. Ohne diese Brücke ist das ganze nicht möglich.
 
+Um dies zu machen, muss man auf Amazon gehen und eine Datei herunterladen. Um die Installation abzuschliessen und zu bestätigen  muss man das CMD im normalen Windows geöffnet werden und den command "aws --version" eingeben. Nun ist die Instalation erforlgrech abgeschlossen. Im Anschluss wird diese noch eine wichtige Rolle spielen. 
 
 ### Benutzung
 ### Schlusswort
