@@ -18,9 +18,10 @@ Dies ist die Dokumentation zu unserem Projekt über die Bildverkleinerung.
 
 ### To-Do
 
-- [x] Setup Script
-- [x] Cleanup Script
-- [x] Run Script
+- [x] Erstellen
+- [x] Cleanup einfügen
+- [x] Testen
+
 
 ### Einleitung
 
