@@ -1,6 +1,6 @@
-# 📌 M346 PA :: Bildverkleinerung
+# 📌 M346 : Bildverkleinerung
 
-Willkommen zu der offiziellen Dokumentation über unsere Projektarbeit für das Modul 346, Bildverkleinerung.
+Dies ist die Dokumentation zu unserem Projekt über die Bildverkleinerung.
 
 ## **Inhalt**
 
