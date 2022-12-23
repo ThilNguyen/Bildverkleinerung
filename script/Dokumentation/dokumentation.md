@@ -12,7 +12,7 @@ Willkommen zu der offiziellen Dokumentation über unsere Projektarbeit für das 
 <br>
 [🔹 Schlusswort](#schlusswort)
 <br>
-[🔹 Erstellen Script](#Erstellen Script)
+[🔹 Erstellen ](#erstellen)
 
 ### To-Do
 
@@ -31,7 +31,7 @@ Wichtig ist, dass man die Amazon CLI installiert hat. Das ist eine Befehlszeilen
 
 Um dies zu machen, muss man auf Amazon gehen und eine Datei herunterladen. Um die Installation abzuschliessen und zu bestätigen muss man das CMD im normalen Windows geöffnet werden und den command "aws --version" eingeben. Nun ist die Instalation erforlgrech abgeschlossen. Im Anschluss wird diese noch eine wichtige Rolle spielen.
 
-## Erstellen Script
+## Erstellen 
 
 Das ganze Script haben wir als Klasse erstellt, weil es niemand in der Gruppe geschafft hat.
 
@@ -54,3 +54,4 @@ Die Benutzung sollte eigentlich sehr simple sein. Man kan zwei Buckets erstellen
 Das Projekt ansich war sehr Zeitaufwendig. Man musste viele Sachen nochmals lernen/lesen und auch code welchen man nicht in der Schule hatte noch selbständig erlernen oder das wissen sicha ufbauen, wie diesen zu verwenden. Weil das Projekt bei den meisten nicht funktioniert hat haben wir uns am Ende dazu entschlossen das Projekt gemeinsam in Angriff zu nehmen, wie am Anfang bereits geschirebn. Ich habe also unsere ersten Versuche nicht Dokumentiert und nur unsere gemeinsame neue.
 
 Die Bilder wurden alle selber erstellt.
+
