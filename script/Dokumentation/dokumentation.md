@@ -4,13 +4,13 @@ Dies ist die Dokumentation zu unserem Projekt über die Bildverkleinerung.
 
 ## **Inhalt**
 
-[🔹 Vorwort](#vorwort)
+[🔹 Einleitung](#einleitung)
 <br>
 [🔹 Installation](#to-do)
 <br>
 [🔹 Benutzung](#benutzung)
 <br>
-[🔹 Schlusswort](#schlusswort)
+[🔹 Abschluss](#abschluss)
 <br>
 [🔹 Erstellen ](#erstellen)
 
@@ -20,7 +20,7 @@ Dies ist die Dokumentation zu unserem Projekt über die Bildverkleinerung.
 - [x] Cleanup Script
 - [x] Run Script
 
-### Vorwort
+### Einleitung
 
 Das Informatikprojekt wurde teilweise im Unterricht und grösstenteils zuhause erarbeitet.
 Unsere Gruppe welche aus Luis Viethen, Thi Nguyen und Livio Piccolotto besteht hat ein Projekt zum Thema "Bildverkleinerung".
@@ -49,7 +49,7 @@ Wir haben auch einzelen Codestücke getestet und erst danach in unseren code int
 
 Die Benutzung sollte eigentlich sehr simple sein. Man kan zwei Buckets erstellen und ein Bild hochladen welches dan verkleinert wird. Im anschluss wird dieses wieder zurückgegeben und alle Buckets werden automatisch wieder gelösch.
 
-### Schlusswort
+### Abschluss
 
 Das Projekt ansich war sehr Zeitaufwendig. Man musste viele Sachen nochmals lernen/lesen und auch code welchen man nicht in der Schule hatte noch selbständig erlernen oder das wissen sicha ufbauen, wie diesen zu verwenden. Weil das Projekt bei den meisten nicht funktioniert hat haben wir uns am Ende dazu entschlossen das Projekt gemeinsam in Angriff zu nehmen, wie am Anfang bereits geschirebn. Ich habe also unsere ersten Versuche nicht Dokumentiert und nur unsere gemeinsame neue.
 
