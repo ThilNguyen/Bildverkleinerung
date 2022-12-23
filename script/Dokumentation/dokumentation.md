@@ -10,9 +10,11 @@ Dies ist die Dokumentation zu unserem Projekt über die Bildverkleinerung.
 <br>
 [🔹 Benutzung](#benutzung)
 <br>
-[🔹 Abschluss](#abschluss)
-<br>
 [🔹 Erstellen ](#erstellen)
+<br>
+[🔹 Abschluss](#abschluss)
+
+
 
 ### To-Do
 
