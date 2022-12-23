@@ -16,9 +16,9 @@ Willkommen zu der offiziellen Dokumentation über unsere Projektarbeit für das 
 
 ### To-Do
 
-- [ ] Setup Script
+- [x] Setup Script
 - [x] Cleanup Script
-- [ ] Run Script
+- [x] Run Script
 
 ### Vorwort
 
@@ -54,4 +54,3 @@ Die Benutzung sollte eigentlich sehr simple sein. Man kan zwei Buckets erstellen
 Das Projekt ansich war sehr Zeitaufwendig. Man musste viele Sachen nochmals lernen/lesen und auch code welchen man nicht in der Schule hatte noch selbständig erlernen oder das wissen sicha ufbauen, wie diesen zu verwenden. Weil das Projekt bei den meisten nicht funktioniert hat haben wir uns am Ende dazu entschlossen das Projekt gemeinsam in Angriff zu nehmen, wie am Anfang bereits geschirebn. Ich habe also unsere ersten Versuche nicht Dokumentiert und nur unsere gemeinsame neue.
 
 Die Bilder wurden alle selber erstellt.
-
