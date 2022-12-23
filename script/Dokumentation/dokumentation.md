@@ -43,7 +43,7 @@ Im Ordner func wird die Lambdafunktion selber geschieben welche das Bild beim Au
 
 Wir haben auch einzelen Codestücke getestet und erst danach in unseren code integriert. Es folgt ein Beispiel:
 
-![Hier ist ein Beispielbild](./image.png)
+![Hier ist ein Beispielbild](./Dokumentation/image.png)
 
 ### Benutzung
 
