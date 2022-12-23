@@ -14,6 +14,15 @@ Willkommen zu der offiziellen Dokumentation über unsere Projektarbeit für das 
 * [ ] Setup Script
 * [x] Cleanup Script
 * [ ] Run Script
+
+### Vorwort
+
+Das Informatikprojekt wurde teilweise im Unterricht und grösstenteils zuhause erarbeitet.
+Unsere Gruppe welche aus Luis Viethen, Thi Nguyen und Livio Piccolotto besteht hat ein Projekt zum Thema "Bildverkleinerung".
+
 ### Installation
+
+
+
 ### Benutzung
 ### Schlusswort
